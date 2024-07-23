@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PankajRenuse
-- 👀 I’m interested in DecOps, AiOps.
+- 👀 I’m interested in DevOps, AiOps.
 - 📫 reach me - pankajrenuse@yahoo.in
 
 <!---
